@@ -1,13 +1,15 @@
 backend:
-name: test-repo
+  name: github
+  repo: victorkane/erquhart-18-line-cms
+  branch: main
 
-media_folder: media_folder
+media_folder: images/uploads
 
 collections:
   - name: post
-label: Post
-folder: posts
-create: true
-fields:
-  - { name: title, label: Title }
-  - { name: body, label: Body, widget: markdown }
+    label: Post
+    folder: posts
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
