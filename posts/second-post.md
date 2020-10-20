@@ -1,6 +1,7 @@
 ---
-title: Second post
+title: Segundo post
 ---
-We have a world to embrace
+
+Hay que cambiar el mundo!
 
 ![second post](/images/uploads/fag-img.png "A world to embrace")
