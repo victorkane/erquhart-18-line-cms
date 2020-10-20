@@ -1,10 +1,9 @@
 ---
 title: First post
 ---
-
 # Hello world
 
-![alt text](/images/uploads/about.png "about us...")
+![alt text](/images/uploads/20200928-norita.jpg "about us...")
 
 This is so much simpler than it looks.
 
